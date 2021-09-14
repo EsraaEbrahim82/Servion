@@ -1,0 +1,62 @@
+/*================================ Satrt large screens =========================*/
+@media (min-width:1201px ) and (max-width: 1440px)
+{
+   
+}
+@media (min-width:1025px) and (max-width:1200px)
+{
+   
+}
+/*============================== Start medium screen of tablet =========================*/
+@media (min-width: 993px) and (max-width: 1024px)
+{
+  
+}
+@media (min-width: 769px) and (max-width: 992px)
+{
+   
+}
+@media(max-width:992px)
+{
+    
+}
+/*============================== Start small screen of mobile =========================*/
+@media(max-width:768px)
+{
+    
+}
+@media (min-width: 577px) and (max-width: 768px)
+{
+    
+}
+@media(max-width:576px)
+{
+    
+}
+@media(min-width: 426px) and (max-width: 576px)
+{
+   
+}
+@media (min-width: 376px) and (max-width: 425px)
+{
+  
+    header .img-box img {
+        width: 128%;
+        height: 470px;
+    }
+}
+@media (min-width: 321px) and (max-width: 375px)
+{
+   
+    header .img-box img {
+        width: 128%;
+        height: 470px;
+    }
+}
+@media (max-width: 320px)
+{
+    header .img-box img {
+        width: 128%;
+        height: 470px;
+    }
+}
